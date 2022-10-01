@@ -1,0 +1,22 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "\"this is first project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node simple_http.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Limjonghyun97/first-test-progect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Limjonghyun97/first-test-progect/issues"
+  },
+  "homepage": "https://github.com/Limjonghyun97/first-test-progect#readme",
+  "dependencies": {
+    "fxjs": "^0.21.3"
+  }
+}
